@@ -14,4 +14,6 @@ At this time I don't plan adding nginx or making more options. It's just little 
 
 Requirements
 --------------
+
 - installed VestaCP (with default dirs and php-cgi)
+
